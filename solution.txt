@@ -1,0 +1,14 @@
+Killer is Jeremy Bowers
+
+Commands used:
+
+cd command-line-murder-mystery
+cat instructions
+cd mystery
+ls -alt
+cat crimescene | grep CLUE
+cat people | grep Annabel
+head -n 179 streets/Buckingham_Place | tail -n 1
+cat interviews/interview-699607
+grep -A 5 "L337" vehicles
+cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt | grep "Jeremy Bowers"
